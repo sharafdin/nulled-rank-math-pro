@@ -1,0 +1,1 @@
+(()=>{"use strict";(0,wp.hooks.addFilter)("rankMath_analysis_isInternalLink","rank-math",(function(a,t,r){if(!rankMath.affiliate_link_prefixes.length)return a;var n=null;return rankMath.affiliate_link_prefixes.forEach((function(a){var e=t.replace("http://","").replace("https://","").replace(r,"");null===n&&e.startsWith(a)&&(n=!1)})),n}))})();
