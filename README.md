@@ -33,7 +33,7 @@ You can download the Rank Math Pro Plugin version for free from the [Releases](h
 
 ### 3. Issues and Support
 
-- **Issues**: If you encounter any issues, such as the plugin not working properly or becoming outdated, please [create an issue](https://github.com/sharafdin/rank-math-pro-nulled/issues) on the GitHub repository. Your feedback helps us improve the plugin and assist other users.
+- **Issues**: If you encounter any issues, such as the plugin not working properly or becoming outdated, please [create an issue](https://github.com/sharafdin/nulled-rank-math-pro/issues) on the GitHub repository. Your feedback helps us improve the plugin and assist other users.
 
 - **Support**: If you find this free version helpful, consider giving the repository a ⭐️ on GitHub! Your support encourages continued sharing and assistance within the community.
 
