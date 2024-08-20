@@ -18,7 +18,7 @@ Rank Math Pro is a powerful WordPress plugin designed to help you optimize your 
 
 ## 🚀 Installation
 
-You can download the Rank Math Pro Plugin version for free from the [Releases](https://github.com/sharafdin/rank-math-pro-nulled/releases) section on GitHub.
+You can download the Rank Math Pro Plugin version for free from the [Releases](https://github.com/sharafdin/nulled-rank-math-pro/releases) section on GitHub.
 
 ### 1. Download the Plugin
 
