@@ -22,13 +22,13 @@ You can download the Rank Math Pro Plugin version for free from the [Releases](h
 
 ### 1. Download the Plugin
 
-- **Pro Plugin**: [rankmath-pro.zip](https://github.com/sharafdin/nulled-rank-math-pro/releases/download/rank-math-pro_v3.0.68/rank-math-pro)
+- **Pro Plugin**: [rank-math-pro.zip](https://github.com/sharafdin/nulled-rank-math-pro/releases/download/rank-math-pro_v3.0.68/rank-math-pro)
 
 ### 2. Install the Plugin
 
 1. Download the `.zip` file from the link above.
 2. In your WordPress admin dashboard, navigate to `Plugins > Add New`.
-3. Click `Upload Plugin` and select the `rankmath-pro.zip` file.
+3. Click `Upload Plugin` and select the `rank-math-pro.zip` file.
 4. Click `Install Now` and activate the plugin once the installation is complete.
 
 ### 3. Issues and Support
